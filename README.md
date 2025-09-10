@@ -1,35 +1,37 @@
 ### Paula Carregal 👩🏻‍💻
-Olá:) Sou a Paula, uma apaixonada por tecnologia e aluna de Sistemas de Informação. Este é o meu repositório no GitHub, onde compartilho alguns dos meus projetos e aprendizados na área de desenvolvimento de software. Vamos codar juntos?
 
+<p align="center">
+  <img src="https://i.imgur.com/6PzQyqG.png" alt="Banner Paula Carregal" width="600"/>
+</p>
+
+Olá! Sou a Paula, desenvolvedora full-stack apaixonada por tecnologia e aluna de Sistemas de Informação. 
+Assim como Arya Stark, estou sempre em busca de novos conhecimentos e desafios — “A mente precisa de livros assim como a espada precisa de uma pedra de amolar, para manter o fio.”  
+Construo soluções criativas, enfrento bugs como Daenerys enfrentou dragões, e nunca desisto: “O que dizemos ao Deus da Morte? Hoje não.”
+
+Aqui você vai encontrar projetos que unem criatividade, lógica e aquela pitada de ousadia dos melhores estrategistas de Westeros. Vamos codar juntos e conquistar novos reinos no mundo da programação?
+
+---
+
+#### 🛠️ **Skills**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>
+</p>
+
+---
+
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulacarregal&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulacarregal&layout=compact&theme=tokyonight)](https://github.com/paulacarregal)
 
+</div>
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**paulacarregal/paulacarregal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
