@@ -1,7 +1,6 @@
-### Paula Carregal 👩🏻‍💻
-
+<hr>
 <p align="center">
-  <img src="https://i.imgur.com/6PzQyqG.png" alt="Banner Paula Carregal" width="600"/>
+  <img src="paulinha.png" alt="Banner Paula Carregal" width="800"/>
 </p>
 
 Olá! Sou a Paula, desenvolvedora full-stack apaixonada por tecnologia e aluna de Sistemas de Informação. 
